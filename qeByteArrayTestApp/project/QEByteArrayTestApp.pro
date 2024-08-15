@@ -1,6 +1,6 @@
 # $File: //ASP/tec/gui/qeByteArrayTest/trunk/qeByteArrayTestApp/project/QEByteArrayTestApp.pro $
-# $Revision: #3 $
-# $DateTime: 2017/07/07 12:01:14 $
+# $Revision: #4 $
+# $DateTime: 2024/08/15 11:32:45 $
 # Last checked in by: $Author: starritt $
 #
 #
@@ -17,7 +17,7 @@
 #
 TOP=../..
 
-message ("QT_MAJOR_VERSION = " $$QT_MAJOR_VERSION )
+message ("QT_VERSION = "$$QT_MAJOR_VERSION"."$$QT_MINOR_VERSION"."$$QT_PATCH_VERSION )
 
 QT       += core
 QT       -= gui
