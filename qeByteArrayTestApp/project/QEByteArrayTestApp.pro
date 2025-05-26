@@ -1,7 +1,6 @@
-# $File: //ASP/tec/gui/qeByteArrayTest/trunk/qeByteArrayTestApp/project/QEByteArrayTestApp.pro $
-# $Revision: #4 $
-# $DateTime: 2024/08/15 11:32:45 $
-# Last checked in by: $Author: starritt $
+# File: qeByteArrayTestApp/project/QEByteArrayTestApp.pro
+# DateTime: Mon May 26 17:08:37 2025
+# Last checked in by: starritt
 #
 #
 # Simple console application to demonstrate programatically using a QEByteArray class to write and read to an EPICS record
